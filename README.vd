@@ -1,0 +1,9 @@
+echo "
+#Welcome to my frist repository
+
+##Author infomration
+Pablo
+
+##Project description
+Just a repo to learn about git
+" |tee README.md
